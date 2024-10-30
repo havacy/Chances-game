@@ -1,2 +1,2 @@
 # Chances-game
-also made this in class
+First little python project. 
